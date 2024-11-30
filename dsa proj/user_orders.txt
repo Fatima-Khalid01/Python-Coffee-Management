@@ -1,0 +1,18 @@
+hh (mm): 7 x Espresso (Chocolate Syrup, Caramel) - Total: $17.50 - Ordered at: 2024-11-26 00:26:59
+m (m): 8 x Espresso (Whipped Cream, Chocolate Syrup) - Total: $20.00 - Ordered at: 2024-11-26 09:24:41
+,o (,): 9 x Espresso (No extra toppings) - Total: $22.50 - Ordered at: 2024-11-26 09:44:21
+mm (jj): 2 x Cappuccino (No extra toppings) - Total: $7.00 - Ordered at: 2024-11-26 09:45:32
+yy (uu): 7 x Cappuccino (Whipped Cream) - Total: $24.50 - Ordered at: 2024-11-26 11:43:59
+m (,i): 8 x Espresso (Whipped Cream) - Total: $20.00 - Ordered at: 2024-11-26 11:49:43
+m (,i): 5 x Espresso (Whipped Cream) - Total: $12.50 - Ordered at: 2024-11-26 11:49:48
+m (mm): 8 x Espresso (Caramel) - Total: $20.00 - Ordered at: 2024-11-26 12:07:33
+j (m): 9 x Latte (No extra toppings) - Total: $27.00 - Ordered at: 2024-11-26 12:09:23
+, (i): 8 x Espresso (Whipped Cream) - Total: $20.00 - Ordered at: 2024-11-26 12:10:42
+m (m): 8 x Espresso (No extra toppings) - Total: $20.00 - Ordered at: 2024-11-26 12:16:27
+j (k): 8 x Espresso (Whipped Cream) - Total: $20.00 - Ordered at: 2024-11-26 12:17:26
+k (k): 7 x Espresso (No extra toppings) - Total: $17.50 - Ordered at: 2024-11-26 12:18:05
+jj (ii): 8 x Espresso (Whipped Cream) - Total: $20.00 - Ordered at: 2024-11-26 12:40:12
+fatima (dha): 6 x Espresso (Whipped Cream, Chocolate Syrup) - Total: $15.00 - Ordered at: 2024-11-26 12:49:14
+sumiya (nazima): 4 x Espresso (Chocolate Syrup, Caramel) - Total: $10.00 - Ordered at: 2024-11-26 12:58:09
+sumaiya (dha): 7 x Espresso (Whipped Cream, Chocolate Syrup) - Total: $17.50 - Ordered at: 2024-11-26 13:06:09
+fatima (jhah): 6 x Espresso (Whipped Cream, Caramel, Extra Shot) - Total: $15.00 - Ordered at: 2024-11-30 20:06:18
